@@ -1,0 +1,9 @@
+.taskcard{
+    width: 400px;
+    height: 220px;
+    color:black;
+    background-color:chartreuse;
+    align-items:flex-start;
+    display: flex;
+}
+
